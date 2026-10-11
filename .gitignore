@@ -1,0 +1,13 @@
+# 构建树与编译产物 (cmake 重新生成)
+build-pc/
+build-rk3588/
+lib/*.pyd
+lib/*.so
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# 系统
+.DS_Store
